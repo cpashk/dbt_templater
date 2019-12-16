@@ -24,4 +24,3 @@ with base as (
 )
 
 select * from casting
-;
